@@ -72,7 +72,7 @@ I’m a full‑stack engineer specialized in **Golang backend**, **Python automa
 ### ⚙️ **Automation**
 - **PyAutoSuite** — cross‑platform automation tools  
 - **CI‑Templates** — reusable CI/CD configurations
-- 
+  
 ---
 
 ## 📝 Blog & Talks
